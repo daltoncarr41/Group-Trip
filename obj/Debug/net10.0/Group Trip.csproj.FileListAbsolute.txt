@@ -1,0 +1,14 @@
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\bin\Debug\net10.0\Group Trip.exe
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\bin\Debug\net10.0\Group Trip.deps.json
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\bin\Debug\net10.0\Group Trip.runtimeconfig.json
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\bin\Debug\net10.0\Group Trip.dll
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\bin\Debug\net10.0\Group Trip.pdb
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\Group Trip.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\Group Trip.AssemblyInfoInputs.cache
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\Group Trip.AssemblyInfo.cs
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\Group Trip.csproj.CoreCompileInputs.cache
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\Group Trip.dll
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\refint\Group Trip.dll
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\Group Trip.pdb
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\Group Trip.genruntimeconfig.cache
+c:\Users\dalto\CSCI1250\lab04-group-trip\Group Trip\obj\Debug\net10.0\ref\Group Trip.dll
